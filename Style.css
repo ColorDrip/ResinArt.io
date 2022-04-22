@@ -1,0 +1,12 @@
+#carouselExampleControlsNoTouching {
+    height: 50%;
+    width: 100%;
+}
+
+.carousel-item{
+    height: 32rem;
+    
+    background: #777;
+
+}
+
